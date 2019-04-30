@@ -2,5 +2,6 @@
 
 This is a project i made for an assignment. it's far from perfect. cause this is actually my first time using python and MongoDB.
 
-Created in python 3 and in Indonesian
-Tested in Ubuntu
+Created with python 3
+Tested on ubuntu
+Language : Indonesia
